@@ -2,6 +2,7 @@ html{
   height: 100%;
   width: 50%;
   display: inline-block;
+  text-align: center;
   background: black;
   overflow-x: hidden;
   overflow-y: scroll;
