@@ -1,0 +1,58 @@
+html{
+  height: 600px;
+  width: 100vw;
+  background: black;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background: #000000;  
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.833), rgba(0, 0, 0, 0.833)), url("consuming\ fire.png");
+  background: linear-gradient(rgba(0, 0, 0, 0.833), rgba(0, 0, 0, 0.833)), url("consuming\ fire.png"); 
+}
+
+
+body{
+  text-align: center;
+  color: antiquewhite;
+  font-size: 150%;
+  font-family: Romans;
+}
+
+h1{
+  text-align: center;
+  color: antiquewhite;
+  font-size: 200%;
+  font-family: Romans;
+}
+
+h3{
+  text-align: center;
+  color: antiquewhite;
+  font-size: 150%;
+  font-family: Romans;
+}
+
+
+h4{
+  text-align: center;
+  color: antiquewhite;
+  font-size: 150%;
+  font-family: Romans;
+}
+
+div{
+  display: inline-block; 
+  text-align: left;
+  color: rgb(196, 162, 116);
+  font-size: 110%;
+  font-family: Romans;
+
+}
+
+
+
+a{ 
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 150%;
+  font-family: Romans;
+}
