@@ -1,10 +1,12 @@
 html{
+  height: auto;
+  width: auto;
   background: black;
   overflow-x: hidden;
   overflow-y: scroll;
   background: #000000;  
-  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.84), rgba(0, 0, 0, 0.84)), url("consumingfirevertical.jpg");
-  background: linear-gradient(rgba(0, 0, 0, 0.84), rgba(0, 0, 0, 0.84)), url("consumingfirevertical.jpg"); 
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.84), rgba(0, 0, 0, 0.84)), url("97AB4FA4-.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.84), rgba(0, 0, 0, 0.84)), url("97AB4FA4-.jpg"); 
 }
 
 
