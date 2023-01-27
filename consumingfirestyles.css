@@ -1,6 +1,4 @@
-html{
-  height: 600px;
-  width: 100vw;
+html{  
   background: black;
   overflow-x: hidden;
   overflow-y: scroll;
